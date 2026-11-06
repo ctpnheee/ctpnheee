@@ -13,8 +13,6 @@
 - 🎓 Master of Engineering in Software Engineering & Information Systems at **EFREI Paris** (2025–2028), Bachelor in Computer Science from **Université Paris Cité**
 - 🧪 Software Engineering Apprentice at **GE HealthCare France**, building Java/Tcl reliability test automation
 - 🤖 Software Engineer at **[Tihado](https://github.com/tihado)**, building AI prototypes with LLMs, agents and MCP
-- 🔭 Looking for an **AI Engineering internship** from July 2027 (4–6 months), open to relocating to Amsterdam
-- 🌍 Vietnamese (native) · English · French
 
 ## 🏆 Hackathons
 
