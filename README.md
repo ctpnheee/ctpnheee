@@ -4,8 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=560&lines=Software+Engineering+student+%40+EFREI+Paris;Apprentice+%40+GE+HealthCare;Building+AI+prototypes+%40+Tihado;4x+hackathon+winner+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=ctpnheee&style=flat-square&color=0ea5e9&label=Profile+views" alt="profile views"/>
-
 </div>
 
 ## 🐳 About me
