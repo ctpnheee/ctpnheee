@@ -77,7 +77,10 @@
 
 <img width="100%" src="./profile-summary-card-output/radical/0-profile-details.svg" />
 
-<img width="100%" src="https://raw.githubusercontent.com/ctpnheee/ctpnheee/output/github-snake-dark.svg" alt="snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctpnheee/ctpnheee/output/github-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ctpnheee/ctpnheee/output/github-snake.svg" alt="contribution snake" />
+</picture>
 
 </div>
 
