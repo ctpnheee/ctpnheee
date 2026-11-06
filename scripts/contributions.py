@@ -59,20 +59,7 @@ lines = ['<p align="center">',
          badge("Commits", tot("totalCommitContributions"), "fbc2eb"),
          badge("Pull requests", tot("totalPullRequestContributions"), "f78fb3"),
          badge("Issues", tot("totalIssueContributions"), "c39bd3"),
-         "</p>", "",
-         "| Year | Contributions | Commits | Pull requests | Issues | Reviews |",
-         "|:---:|:---:|:---:|:---:|:---:|:---:|"]
-for y, c in reversed(years):
-    lines.append(f"| {y} | **{c['contributionCalendar']['totalContributions']}** | {c['totalCommitContributions']} | "
-                 f"{c['totalPullRequestContributions']} | {c['totalIssueContributions']} | "
-                 f"{c['totalPullRequestReviewContributions']} |")
-
-lines += ["", "**Top repositories I contributed to**", "",
-          "| Repository | Commits | Pull requests |", "|---|:---:|:---:|"]
-top = sorted(repos.items(), key=lambda kv: (kv[1]["commits"] + kv[1]["prs"]), reverse=True)[:8]
-for name, e in top:
-    lines.append(f"| [{name}]({e['url']}) | {e['commits']} | {e['prs']} |")
-lines += ["", f"<sub>Updated automatically on {now:%Y-%m-%d}. Private contributions are counted in the totals only.</sub>"]
+         "</p>"]
 
 path = "README.md"
 s = open(path, encoding="utf-8").read()
