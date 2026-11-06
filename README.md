@@ -48,6 +48,7 @@
 
 <img src="https://streak-stats.demolab.com?user=ctpnheee&background=EEF8FF&border=BAE6FD&stroke=BAE6FD&ring=0284C7&fire=06B6D4&currStreakNum=0B5394&sideNums=0B5394&currStreakLabel=0284C7&sideLabels=0284C7&dates=1E3A5F" />
 
+<img height="180" src="./profile-summary-card-output/ocean/2-most-commit-language.svg" />
 <img height="180" src="./profile-summary-card-output/ocean/3-stats.svg" />
 <img height="180" src="./profile-summary-card-output/ocean/4-productive-time.svg" />
 
