@@ -55,10 +55,10 @@ badge = lambda label, value, color: (
 )
 
 lines = ['<p align="center">',
-         badge("Contributions", all_contrib, "a18cd1"),
-         badge("Commits", tot("totalCommitContributions"), "fbc2eb"),
-         badge("Pull requests", tot("totalPullRequestContributions"), "f78fb3"),
-         badge("Issues", tot("totalIssueContributions"), "c39bd3"),
+         badge("Contributions", all_contrib, "0369a1"),
+         badge("Commits", tot("totalCommitContributions"), "0284c7"),
+         badge("Pull requests", tot("totalPullRequestContributions"), "0891b2"),
+         badge("Issues", tot("totalIssueContributions"), "0ea5e9"),
          "</p>"]
 
 path = "README.md"
