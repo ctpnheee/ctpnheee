@@ -55,8 +55,8 @@
 <img width="100%" src="./profile-summary-card-output/ocean/0-profile-details.svg" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctpnheee/ctpnheee/output/github-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ctpnheee/ctpnheee/output/github-snake.svg" alt="contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctpnheee/ctpnheee/output/github-snake-dark.svg?theme=ocean" />
+  <img width="100%" src="https://raw.githubusercontent.com/ctpnheee/ctpnheee/output/github-snake.svg?theme=ocean" alt="contribution snake" />
 </picture>
 
 </div>
